@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon Chen,
 
-  Currently, Rust engineer in Supra, and also working in open source software [gftea](https://github.com/gftea)
+  Currently, Rust engineer in Supra, meanwhile OSS contributor [gftea](https://github.com/gftea)
   
 - 📫 How to reach me ...
   - [schen](https://github.com/so-schen/)
