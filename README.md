@@ -3,8 +3,8 @@
   Currently, Rust engineer in Supra, meanwhile OSS contributor [gftea](https://github.com/gftea)
   
 - 📫 How to reach me ...
-  - [schen](https://github.com/so-schen/)
   - [gftea](https://github.com/gftea)
+  - [schen](https://github.com/so-schen/)
 
 <!---
 so-schen/so-schen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
